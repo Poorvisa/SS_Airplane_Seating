@@ -1,0 +1,108 @@
+First Test case
+=================
+
+Enter number of Passenger ids
+25
+Enter 25 Passenger id
+29 59 14 11 3 13 15 18 12 16 6 17 7 47 61 5 21 2 41 9 10 8 19 1 4
+Enter the number of seating groups
+4
+Enter 1st column and Row values:
+3 2
+Enter 2st column and Row values:
+4 3
+Enter 3st column and Row values:
+2 3
+Enter 4st column and Row values:
+3 4
+
+WW - window Seat
+MM - middle Seat
+aa - aisle Seat
+WW MM aa aa MM MM aa aa aa aa MM WW 
+15 10 29 11 XX XX 17 61 41 16 XX 12 
+18 XX 59 03 XX XX 07 05 19 08 XX 06 
+         13 XX XX 47 02 01 04 XX 21 
+                           14 XX 09 
+                           
+                           
+Second Test case
+=================
+
+Enter number of Passenger ids
+25
+Enter 25 Passenger id
+29 59 14 11 3 13 15 18 12 16 6 17 7 47 61 5 21 2 41 9 10 8 19 1 4
+Enter the number of seating groups
+3
+Enter 1st column and Row values:
+3 2
+Enter 2st column and Row values:
+2 3
+Enter 3st column and Row values:
+3 4
+WW - window Seat
+MM - middle Seat
+aa - aisle Seat
+
+WW MM aa aa aa aa MM WW 
+19 15 29 11 17 61 12 16 
+01 18 59 03 07 05 06 08 
+         13 47 02 21 04 
+               41 09 14 
+Third Test case
+=================              
+               
+Enter number of Passenger ids
+25
+Enter 25 Passenger id
+29 59 14 11 3 13 15 18 12 16 6 17 7 47 61 5 21 2 41 9 10 8 19 1 4
+Enter the number of seating groups
+2
+Enter 1st column and Row values:
+2 3
+Enter 2st column and Row values:
+3 4
+
+WW - window Seat
+MM - middle Seat
+aa - aisle Seat
+
+WW aa aa MM WW 
+47 29 03 16 02 
+61 59 13 08 41 
+05 11 17 04 19 
+      07 14 01 
+      
+Fourth Test case
+=================
+Enter number of Passenger ids
+5
+Enter 5 Passenger id
+45 50 15 12 103
+Enter the number of seating groups
+4
+Enter 1st column and Row values:
+5
+2
+Enter 2st column and Row values:
+3
+5
+Enter 3st column and Row values:
+4
+6
+Enter 4st column and Row values:
+2
+2
+
+WW - window Seat
+MM - middle Seat
+aa - aisle Seat
+
+WW MM MM MM aa aa MM aa aa MM MM aa aa WW 
+XX XX XX XX 103 50 XX XX XX XX XX XX XX XX 
+XX XX XX XX 45 15 XX XX XX XX XX XX XX XX 
+               12 XX XX XX XX XX XX       
+               XX XX XX XX XX XX XX       
+               XX XX XX XX XX XX XX       
+                        XX XX XX XX      

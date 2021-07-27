@@ -1,0 +1,57 @@
+First Test case
+=================
+
+Enter number of Passenger ids
+1000000001
+Passenger_id will not exceed 10^9.So enter within 10^9
+
+Second Test case
+=================
+
+Enter number of Passenger ids
+0
+Passenger_id will greater then 0
+
+
+Third Test case
+=================              
+
+Enter number of Passenger ids
+25
+Enter 25 Passenger id
+29 59 14 11 3 13 15 18 12 16 6 17 7 47 61 5 21 2 41 9 10 8 19 1 4
+Enter the number of seating groups
+3
+Enter 1st column and Row values:
+1000
+1
+Enter 2st column and Row values:
+1001
+1
+Column should not be greater than 10 power 3
+
+
+Fourth Test case
+================= 
+
+Enter number of Passenger ids
+25
+Enter 25 Passenger id
+29 59 14 11 3 13 15 18 12 16 6 17 7 47 61 5 21 2 41 9 10 8 19 1 4
+Enter the number of seating groups
+3
+Enter 1st column and Row values:
+1000
+1
+Enter 2st column and Row values:
+999
+0
+Row should be greater than 0   
+
+
+Fifth Test case
+===============
+Enter number of Passenger ids
+1000000001
+Array size of passenger_id will not exceed 10^9 
+
